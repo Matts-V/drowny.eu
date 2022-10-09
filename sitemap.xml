@@ -3,12 +3,12 @@
 		<loc>https://drowny.eu/Home.html</loc>
 	</url>
 	<url>
-		<loc>https://drowny.eu/Drowny-MusicRadio.html</loc>
-	</url>
-	<url>
 		<loc>https://drowny.eu/DrownyHurt.html</loc>
 	</url>
 	<url>
 		<loc>https://drowny.eu/Submerci.html</loc>
+	</url>
+	<url>
+		<loc>https://drowny.eu/DrownyDiscordBot.html</loc>
 	</url>
 </urlset>
